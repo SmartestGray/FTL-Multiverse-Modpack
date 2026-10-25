@@ -1,2 +1,2 @@
 # FTL-Multiverse-Modpack
-Multiverse-5.5.1-zh-hans整合包
+多元宇宙5.5.1简体中文整合包
